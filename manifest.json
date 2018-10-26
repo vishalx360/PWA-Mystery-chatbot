@@ -1,0 +1,21 @@
+{
+    "name": "PWA Mystery Bot",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "orientation":"portrait",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+          "src": "pwa_mystery_solver.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "pwa_mystery_solver_512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+  }
